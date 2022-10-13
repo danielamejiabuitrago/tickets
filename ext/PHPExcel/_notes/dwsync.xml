@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoloader.php" server="soluing.com" local="131553532780000000" remote="131553922200000000" Dst="0" />
+<file name="CachedObjectStorageFactory.php" server="soluing.com" local="131553532800000000" remote="131553922200000000" Dst="0" />
+<file name="Cell.php" server="soluing.com" local="131553532820000000" remote="131553933600000000" Dst="0" />
+<file name="Chart.php" server="soluing.com" local="131553532820000000" remote="131553933600000000" Dst="0" />
+<file name="Comment.php" server="soluing.com" local="131553532820000000" remote="131553933600000000" Dst="0" />
+<file name="DocumentProperties.php" server="soluing.com" local="131553532820000000" remote="131553933600000000" Dst="0" />
+<file name="DocumentSecurity.php" server="soluing.com" local="131553532820000000" remote="131553933600000000" Dst="0" />
+<file name="Exception.php" server="soluing.com" local="131553532820000000" remote="131553933600000000" Dst="0" />
+<file name="HashTable.php" server="soluing.com" local="131553532820000000" remote="131553933600000000" Dst="0" />
+<file name="IComparable.php" server="soluing.com" local="131553532820000000" remote="131553933600000000" Dst="0" />
+<file name="IOFactory.php" server="soluing.com" local="131553532820000000" remote="131553933600000000" Dst="0" />
+<file name="NamedRange.php" server="soluing.com" local="131553532820000000" remote="131553933600000000" Dst="0" />
+<file name="ReferenceHelper.php" server="soluing.com" local="131553532840000000" remote="131553933600000000" Dst="0" />
+<file name="RichText.php" server="soluing.com" local="131553532840000000" remote="131553933600000000" Dst="0" />
+<file name="Settings.php" server="soluing.com" local="131553532840000000" remote="131553933600000000" Dst="0" />
+<file name="Style.php" server="soluing.com" local="131553532880000000" remote="131553933600000000" Dst="0" />
+<file name="Worksheet.php" server="soluing.com" local="131553532880000000" remote="131553933600000000" Dst="0" />
+<file name="WorksheetIterator.php" server="soluing.com" local="131553532900000000" remote="131553933600000000" Dst="0" />
+<file name="Calculation.php" server="soluing.com" local="131553532800000000" remote="131553934200000000" Dst="0" />
+<file name="Autoloader.php" server="centroeducativomenfis.com" local="131553532780000000" remote="131619811200000000" Dst="0" />
+<file name="CachedObjectStorageFactory.php" server="centroeducativomenfis.com" local="131553532800000000" remote="131619811200000000" Dst="0" />
+<file name="Calculation.php" server="centroeducativomenfis.com" local="131553532800000000" remote="131619811200000000" Dst="0" />
+<file name="Cell.php" server="centroeducativomenfis.com" local="131553532820000000" remote="131619811200000000" Dst="0" />
+<file name="Chart.php" server="centroeducativomenfis.com" local="131553532820000000" remote="131619811200000000" Dst="0" />
+<file name="Comment.php" server="centroeducativomenfis.com" local="131553532820000000" remote="131619811200000000" Dst="0" />
+<file name="DocumentProperties.php" server="centroeducativomenfis.com" local="131553532820000000" remote="131619811200000000" Dst="0" />
+<file name="DocumentSecurity.php" server="centroeducativomenfis.com" local="131553532820000000" remote="131619811200000000" Dst="0" />
+<file name="Exception.php" server="centroeducativomenfis.com" local="131553532820000000" remote="131619811200000000" Dst="0" />
+<file name="HashTable.php" server="centroeducativomenfis.com" local="131553532820000000" remote="131619811200000000" Dst="0" />
+<file name="IComparable.php" server="centroeducativomenfis.com" local="131553532820000000" remote="131619811200000000" Dst="0" />
+<file name="IOFactory.php" server="centroeducativomenfis.com" local="131553532820000000" remote="131619811200000000" Dst="0" />
+<file name="NamedRange.php" server="centroeducativomenfis.com" local="131553532820000000" remote="131619811200000000" Dst="0" />
+<file name="ReferenceHelper.php" server="centroeducativomenfis.com" local="131553532840000000" remote="131619811200000000" Dst="0" />
+<file name="RichText.php" server="centroeducativomenfis.com" local="131553532840000000" remote="131619811200000000" Dst="0" />
+<file name="Settings.php" server="centroeducativomenfis.com" local="131553532840000000" remote="131619811200000000" Dst="0" />
+<file name="Style.php" server="centroeducativomenfis.com" local="131553532880000000" remote="131619811200000000" Dst="0" />
+<file name="Worksheet.php" server="centroeducativomenfis.com" local="131553532880000000" remote="131619811200000000" Dst="0" />
+<file name="WorksheetIterator.php" server="centroeducativomenfis.com" local="131553532900000000" remote="131619811200000000" Dst="0" />
+</dwsync>
